@@ -342,4 +342,4 @@ spec:
   maturity: beta
   provider:
     name: Cockroach Labs
-  version: 1.2.2
+  version: 2.1.1
